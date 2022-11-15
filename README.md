@@ -1,0 +1,2 @@
+# IlkRepoGitHubTest
+Test amaçlı yapılıyor.
